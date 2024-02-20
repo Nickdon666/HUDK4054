@@ -52,9 +52,10 @@ This project is licensed under the CC-BY License - see the LICENSE.md file for d
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+We would like to express our gratitude to the following individuals and resources for their valuable contributions and inspiration:
+
+* [A Dataset of Students’ Mental Health and Help-Seeking Behaviors in a Multicultural Environment](link_to_resource_1) - Description of their contribution or inspiration.
+* [Name or Resource 2](link_to_resource_2) - Description of their contribution or inspiration.
+* [Name or Resource 3](link_to_resource_3) - Description of their contribution or inspiration.
+
+If we have inadvertently omitted anyone or any resource, please accept our sincere apologies and know that your contribution is greatly appreciated.
