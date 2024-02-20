@@ -1,56 +1,54 @@
-![Banner](https://github.com/Nickdon666/HUDK4054/blob/f9d547d7d40cc2e4b97c13906a80e60c39f84e9e/Comparative_Study_of_Stress.png)
+![Banner](https://github.com/Nickdon666/HUDK4054/blob/797776cec18b8d4fa7b749188ffd0d3251bb2081/STRESS.png)
 # COMPARATIVE STUDY OF STRESS 
-This study investigates the stressors and stress coping mechanisms among university students in Japan and the United Kingdom. Stress-related data was gathered for one sample population using validated instruments.The analysis employed multi-regression analysis, Principal Component Analysis clustering, and decision tree classifiers to unravel patterns within the data.
+
+The University Student Mental Health Survey 2018 conducted across universities within the UK sheds light on the extensive prevalence of depression and anxiety among students, revealing a concerning pattern across all colleges. Hence, the focus of this research article lies in a comprehensive exploration of stress among college students in the UK.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Stress-related data was gathered for one sample population using validated instruments. The analysis employed multi-regression analysis, Principal Component Analysis clustering, and decision tree classifiers to unravel patterns within the data. This comparative analysis enhances the understanding of the complex dynamics of stress and coping mechanisms across diverse cultural and educational contexts.
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+This program requires Python 3 to be installed.
+Additionally, it relies on the following libraries:
+- NumPy
+- Pandas
+- Matplotlib
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+**Download the program**: You can download the program from the GitHub repository.
+
+**Install dependencies**: Before running the program, you need to install the required libraries. You can do this using pip, the Python package manager, by running the following command in your terminal or command prompt:
+- pip install numpy pandas matplotlib
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+1. **Navigate to the program directory**: Open your terminal or command prompt and navigate to the directory where you downloaded the program.
 
-## Help
+2. **Run the program**: Execute the program by running the following command:
+   - python Student_Stress.py
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+3. **Follow on-screen instructions**: Once the program is running, follow any on-screen instructions to interact with it or provide necessary input.
+
+By following these steps, you should be able to download, install dependencies, and execute the program successfully. If you encounter any issues or have questions, feel free to reach out for assistance.
+
+
 
 ## Authors
 
-Contributors names and contact info
+Justin Suan Jin Loh
+- Department of Human Development, Teachers College, [jl6495@tc.columbia.edu](mailto:jl6495@tc.columbia.edu)
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+Jiahao Tang
+- Department of Human Development, Teachers College, [jt3471@tc.columbia.edu](mailto:jt3471@tc.columbia.edu)
+- https://orcid.org/0009-0006-2653-7975
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the CC-BY License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
