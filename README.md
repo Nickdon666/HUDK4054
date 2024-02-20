@@ -1,6 +1,6 @@
-# Project Title
-
-Simple overview of use/purpose.
+![Banner](https://github.com/Nickdon666/HUDK4054/blob/f9d547d7d40cc2e4b97c13906a80e60c39f84e9e/Comparative_Study_of_Stress.png)
+# COMPARATIVE STUDY OF STRESS 
+This study investigates the stressors and stress coping mechanisms among university students in Japan and the United Kingdom. Stress-related data was gathered for one sample population using validated instruments.The analysis employed multi-regression analysis, Principal Component Analysis clustering, and decision tree classifiers to unravel patterns within the data.
 
 ## Description
 
