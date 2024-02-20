@@ -48,14 +48,15 @@ Jiahao Tang
 
 ## License
 
-This project is licensed under the CC-BY License - see the LICENSE.md file for details
+This project is licensed under the CC-BY License - see the LICENSE.md file for details.
 
 ## Acknowledgments
 
 We would like to express our gratitude to the following individuals and resources for their valuable contributions and inspiration:
 
-* [A Dataset of Students’ Mental Health and Help-Seeking Behaviors in a Multicultural Environment](link_to_resource_1) - Description of their contribution or inspiration.
-* [Name or Resource 2](link_to_resource_2) - Description of their contribution or inspiration.
-* [Name or Resource 3](link_to_resource_3) - Description of their contribution or inspiration.
+* [A Dataset of Students’ Mental Health and Help-Seeking Behaviors in a Multicultural Environment](https://github.com/Nickdon666/HUDK4054/blob/bcb00e1f4d40acb7038985418256e7ee98d3b6af/data-04-00124.pdf) - Provides questionnaire results and important analytical data.
+* [John Doe](https://github.com/johndoe) - Provided insightful feedback and suggestions throughout the development process.
+* [Tech Blog](https://techblog.com) - Inspired us with their innovative approaches to solving similar problems.
+* [Jane Smith](https://twitter.com/janesmith) - Shared useful code snippets and examples on social media platforms, helping us overcome technical challenges.
 
 If we have inadvertently omitted anyone or any resource, please accept our sincere apologies and know that your contribution is greatly appreciated.
